@@ -17,7 +17,7 @@ Develop both the front-end and back-end, implementing essential features that ev
 
 ### Data Management with ASP.NET Data Project and Entity Framework
 - Manage your data efficiently with ASP.NET Data Project and Entity Framework.
-- Learn to manage database schema with Entity Framework migrations.
+- Manage database schema with Entity Framework migrations.
 - Add, retrieve, update, and delete data in the database.
 - Set up and interact with an SQL database securely.
 
