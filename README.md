@@ -61,15 +61,5 @@ Develop both the front-end and back-end, implementing essential features that ev
     ```
 2. **Open Your Browser** and navigate to `http://localhost:5000`.
 
-## Course Outline
-1. **Introduction and Setup**
-2. **Building the Front-End with Tailwind CSS**
-3. **Implementing Core Features**
-4. **Managing Data with Entity Framework**
-5. **Deploying to Azure**
-
-## Contributing
-Feel free to fork this repository and contribute by submitting a pull request. Please ensure your changes are well-documented and tested.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
